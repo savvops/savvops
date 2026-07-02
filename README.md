@@ -38,3 +38,4 @@ Fast, SEO-focused sites for small businesses and nonprofits, built with Astro an
 - **Email:** savvops.ai@gmail.com
 - **Portfolio:** [savvstudio.com](https://savvstudio.com)
 - **LinkedIn:** [nelson-tsavnande](https://www.linkedin.com/in/nelson-tsavnande-94381a2b4/)
+- **Adobe Stock:** [~7,000-asset AI-generated portfolio](https://stock.adobe.com/contributor/211451851/Nelson) — produced with my own MetaGen automation tooling
