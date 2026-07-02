@@ -1,12 +1,12 @@
-# Nelson Tsavnande — SavvOps ⚡
+# Nelson Tsavnande — SavvOps
 
-**AI Automation & Web Systems Developer** · Winnipeg, Canada · open to remote AI/automation and web design roles
+**Using AI as an operating system.**
+
+AI Automation & Web Systems Developer · Winnipeg, Canada · open to remote AI/automation and web design roles
 
 I build practical AI systems and fast websites: browser assistants, n8n/LLM workflow automation, and conversion-focused sites for real businesses. Founder of [Savv Studio](https://savvstudio.com).
 
-> *"I don't just use AI as a chatbot. I use it as an operating system."*
-
-## 🚀 Flagship Projects
+## Flagship Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -15,7 +15,7 @@ I build practical AI systems and fast websites: browser assistants, n8n/LLM work
 | **[HTMLHub](https://htmlhub.org)** | Copy-paste library of HTML/CSS/Canvas/WebGL animations with production search | Astro 5, React islands, Pagefind, Cloudflare |
 | **SavvOps Automation** | n8n + Telegram + LLM workflows for task routing, triage, and summaries with human-in-the-loop approval gates | n8n, Telegram Bot API, local + cloud LLMs |
 
-## 🎨 Web Design & Client Work
+## Web Design & Client Work
 
 Fast, SEO-focused sites for small businesses and nonprofits, built with Astro and deployed on Cloudflare:
 
@@ -24,7 +24,7 @@ Fast, SEO-focused sites for small businesses and nonprofits, built with Astro an
 - [Dr. Tsavnande Foundation](https://drtsavnandefoundation.com) — nonprofit site
 - Window Guys Winnipeg — local service business web presence + lead-gen ops
 
-## 🛠️ Stack
+## Stack
 
 - **AI / Automation:** n8n, LLM APIs (Anthropic, OpenAI, Gemini, OpenRouter), Ollama & LM Studio, prompt design, RAG, Telegram bots, human-in-the-loop workflow design
 - **Web:** Astro, React, TypeScript, Tailwind, Vite, SEO-focused static sites
@@ -33,7 +33,7 @@ Fast, SEO-focused sites for small businesses and nonprofits, built with Astro an
 
 **Ethos: Speed > Perfection** — ship it, then sharpen it.
 
-## 📬 Contact
+## Contact
 
 - **Email:** savvops.ai@gmail.com
 - **Portfolio:** [savvstudio.com](https://savvstudio.com)
