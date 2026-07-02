@@ -1,8 +1,8 @@
-# Nelson Tsavnande — SavvOps
+# Savv — SavvOps
 
 **Using AI as an operating system.**
 
-AI Automation & Web Systems Developer · Winnipeg, Canada · open to remote AI/automation and web design roles
+AI Automation & Web Systems Developer · Digital Solutions Architect · Winnipeg, Canada · open to remote AI/automation and web design roles
 
 I build practical AI systems and fast websites: browser assistants, n8n/LLM workflow automation, and conversion-focused sites for real businesses. Founder of [Savv Studio](https://savvstudio.com).
 
@@ -37,5 +37,5 @@ Fast, SEO-focused sites for small businesses and nonprofits, built with Astro an
 
 - **Email:** savvops.ai@gmail.com
 - **Portfolio:** [savvstudio.com](https://savvstudio.com)
-- **LinkedIn:** [nelson-tsavnande](https://www.linkedin.com/in/nelson-tsavnande-94381a2b4/)
+- **LinkedIn:** [profile](https://www.linkedin.com/in/nelson-tsavnande-94381a2b4/)
 - **Adobe Stock:** [~7,000-asset AI-generated portfolio](https://stock.adobe.com/contributor/211451851/Nelson) — produced with my own MetaGen automation tooling
